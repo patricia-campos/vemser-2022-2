@@ -1,3 +1,5 @@
+package br.com.dbc.aula1;
+
 public class Comparadores {
     public static void main(String[] args) {
          /*

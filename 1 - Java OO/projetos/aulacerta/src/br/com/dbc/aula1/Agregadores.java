@@ -1,3 +1,5 @@
+package br.com.dbc.aula1;
+
 public class Agregadores {
     public static void main(String[] args) {
         //        ! = não ... !ehSolteiro (não ehSolteiro) PS: se a variável estiver como TRUE, ela se torna FALSE. e vice-versa

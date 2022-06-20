@@ -1,3 +1,5 @@
+package br.com.dbc.aula1;
+
 public class VariaveisEConstantes {
     public static void main(String[] args) {
         // inicia o meu programa atribuindo as variáveis

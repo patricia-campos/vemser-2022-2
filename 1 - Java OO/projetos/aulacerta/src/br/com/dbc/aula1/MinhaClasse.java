@@ -1,3 +1,5 @@
+package br.com.dbc.aula1;
+
 import java.util.Scanner;
 
 public class MinhaClasse {
