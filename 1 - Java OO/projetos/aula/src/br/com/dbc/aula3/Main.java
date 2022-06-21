@@ -15,7 +15,6 @@ public class Main {
 
         System.out.println(prates.idade);
 
-        prates.imprimirDados();
         String idade = prates.retornarIdade();
         System.out.println(idade);
         System.out.println(prates.retornarIdade());
